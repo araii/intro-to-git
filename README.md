@@ -11,11 +11,24 @@
 - git add *.html
 
 # Adding all files in directory (including hidden)
-- git add -A
+- $ git add -A
 
 # Removing files
-- git reset HEAD file2.txt
+- $ git reset HEAD filename.txt
 
 # Ignoring files
 - touch .gitignore
 - add names of file you want git to ignore
+
+
+# Git Branches
+- Listing all branches
+- Adding a branches
+- Changing branches
+- Merging a branch
+- Removing a branch
+
+       feature1----0-----0<-new commit
+          /             /
+master---0--------0----/
+
