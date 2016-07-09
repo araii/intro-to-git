@@ -26,6 +26,6 @@
 - Merging a branch
 - Removing a branch
 
-       feature1----0
-          /
-master---0
+       feature1----0-----0<-new commit
+          /             /
+master---0--------0----/
