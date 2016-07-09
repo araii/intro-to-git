@@ -7,12 +7,21 @@
 # State 3: GIT Repository
 - Where all our snapshots are stored
 
-
 # Adding multiple files of a certain type
-
+- $ git add *.html
 
 # Adding all files in directory (including hidden)
+- $ git add -A
 
 # Removing files
+- $ git reset HEAD filename.txt
 
 # Ignoring files
+- touch .gitignore
+
+# Git Branches
+- Listing all branches
+- Adding a branches
+- Changing branches
+- Merging a branch
+- Removing a branch
