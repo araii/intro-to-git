@@ -7,12 +7,15 @@
 # State 3: GIT Repository
 - Where all our snapshots are stored
 
-
 # Adding multiple files of a certain type
-
+- git add *.html
 
 # Adding all files in directory (including hidden)
+- git add -A
 
 # Removing files
+- git reset HEAD file2.txt
 
 # Ignoring files
+- touch .gitignore
+- add names of file you want git to ignore
