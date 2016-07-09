@@ -25,3 +25,7 @@
 - Changing branches
 - Merging a branch
 - Removing a branch
+
+       feature1----0
+          /
+master---0
